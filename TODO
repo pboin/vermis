@@ -1,0 +1,20 @@
+
+
+ * Pick a distribution
+
+ * Design a configuration file, and a script to take those items and plop in the right places
+
+ * Configure a syslog service
+
+ * Configure SNMPv3
+
+ * Document ways to get data into and out of the system.
+
+ * Plan for what to do when space runs out 
+    * Delete oldest stuff?
+    * Start sending syslog out to another source?
+    * Compress?
+    * Stop logging ( to save the breakin data )
+    * Send alerts?
+
+
